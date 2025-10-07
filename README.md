@@ -1,4 +1,4 @@
-# 📘 UIS Projekat — Tim [Naziv Tima]
+# 📘 UIS Projekat — Tim
 
 ## 🎯 Opis projekta
 Cilj ovog projekta je da kroz istraživanje, analizu i dokumentovanje naučimo proces nastanka softverskog rješenja — od ideje, preko analize zahtjeva, do modelovanja sistema.  
@@ -49,16 +49,16 @@ README.md
 ---
 
 ## 💬 Komunikacija i saradnja
-- Kada neko objavi novi fajl ili izmjenu, napiše kratku napomenu u README ili otvori **GitHub Issue**.  
-- Ako neko ima prijedlog, komentar ili treba pomoć — napiše ispod objave ili kroz “issue”.  
+- Kada neko objavi novi fajl ili izmjenu, napiše kratku napomenu u **GitHub Issue**.  
+- Ako bilo ko od nas ima prijedlog, komentar ili treba pomoć — napiše ispod objave ili kroz “issue”.  
 - Na taj način uvijek znamo **ko je šta radio** i **dokle smo stigli**.  
 
 ---
 
 ## 🧠 Napomene i savjeti
 - 📚 Sve što istražimo, pronađemo ili napravimo — **dokumentujemo** (kako bi nam bilo lakše za završni izvještaj).  
-- 🗓️ Projekat je iterativan — dokumentujte i male promjene (npr. “izmjena pitanja za intervju”, “dodato novo istraživanje”).  
-- 👥 GitHub koristimo kao centralno mjesto — nema rasutih fajlova po uređajima.
+- 🗓️ Dokumentujte i male promjene (npr. “izmjena pitanja za intervju”, “dodato novo istraživanje”).  
+- 👥 Lakše nam je za snalaženje, kad je sve na jednom mjestu, sto se tiče dokumenata.
 
 ---
 
@@ -66,12 +66,9 @@ README.md
 Na kraju projekta treba da imamo:
 - jasno dokumentovanu temu i problem,
 - listu korisničkih zahtjeva,
-- modele sistema (DFD, ER dijagram, funkcionalna hijerarhija),
+- modele sistema,
 - završni izvještaj i prezentaciju spremnu za odbranu.  
 
 Ovo je osnova koju ćemo **u narednom semestru (Softversko inženjerstvo)** pretvoriti u stvarnu **web i mobilnu aplikaciju**.
 
 ---
-
-✍️ *Tim [Naziv Tima]*  
-📅 *Godina: 2025/2026*  
