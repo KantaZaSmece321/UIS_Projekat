@@ -23,15 +23,25 @@ Ovaj repozitorijum služi za **praćenje napretka**, **zajednički rad** i **cen
 📂 docs/
 
 ├── 01_tema_i_odabir/
+
 ├── 02_istrazivanje/
+
 ├── 03_intervjui_i_ankete/
+
 ├── 04_analiza_i_zahtjevi/
+
 ├── 05_modelovanje/
+
 ├── 06_zavrsni_izvjestaj/
+
 📂 resources/
+
 ├── reference/
+
 ├── slike/
+
 ├── prezentacije/
+
 README.md
 
 > Ova struktura se može prilagoditi, ali cilj je da sve bude **pregledno, hronološki i lako za praćenje**.
