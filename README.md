@@ -20,7 +20,8 @@ Ovaj repozitorijum služi za **praćenje napretka**, **zajednički rad** i **cen
 
 ## 📄 Preporučena struktura repozitorijuma
 
-📂 docs/n
+📂 docs/
+
 ├── 01_tema_i_odabir/
 ├── 02_istrazivanje/
 ├── 03_intervjui_i_ankete/
